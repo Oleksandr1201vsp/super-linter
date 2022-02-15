@@ -25,7 +25,7 @@ FROM garethr/kubeval:0.15.0 as kubeval
 ##################
 # Get base image #
 ##################
-FROM python:alpine
+FROM python:3.11.0a5-alpine3.15
 
 ############################
 # Get the build arguements #
