@@ -14,7 +14,7 @@
     "eslint-plugin-jest": "^24.1.9",
     "eslint-plugin-prettier": "^3.3.1",
     "gherkin-lint": "^4.2.1",
-    "htmlhint": "^0.14.2",
+    "htmlhint": "^1.0.0",
     "jsonlint": "^1.6.3",
     "markdownlint-cli": "^0.27.1",
     "npm-groovy-lint": "^8.1.0",
